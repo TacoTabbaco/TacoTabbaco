@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Paulo, an eletrical engineer in progress based in Portugal
+I'm Paulo, an eletrical engineer student in progress based in Portugal.
 
-I like to build small projects using microcontrollers
+I like to build small projects using microcontrollers.
 
 My main strenghts are in C and C++ language, although I'm also profficient in Python.
 
